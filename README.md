@@ -2,7 +2,6 @@
 
 Dự án này được tạo ra với mục đích **luyện tập và nâng cao kỹ năng cào dữ liệu (web scraping)** bằng Python từ cơ bản đến nâng cao. Các script trong dự án chủ yếu phục vụ cho việc học tập cá nhân, thử nghiệm các kỹ thuật bóc tách dữ liệu trên các trang web mẫu và cách kết nối, lưu trữ thông tin vào cơ sở dữ liệu.
 
-*Lưu ý: Dự án mang tính chất thực hành cá nhân, không nhằm mục đích chia sẻ để người khác cài đặt hay chạy lại. Do đó, các phần hướng dẫn cài đặt môi trường hay thiết lập chi tiết đã được lược bỏ.*
 
 ## 📁 Cấu trúc dự án
 
