@@ -3,10 +3,11 @@ name = "crawl-data"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "lxml>=6.1.1",
+    "pip>=26.1.1",
     "pymongo>=4.17.0",
     "requests>=2.34.2",
     "urljoin>=1.0.0",
